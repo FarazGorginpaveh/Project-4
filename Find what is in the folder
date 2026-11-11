@@ -1,0 +1,40 @@
+%runfile D:/Tufts/Wishlist/la-flood-2018/la-flood-2018/scripts/untitled22.py --wdir
+PROJECT 4 INVENTORY
+=================================================================
+Root: D:\Project_4
+Total directories: 128
+Total files: 1260
+Total file size (GB): 1.259
+
+File types:
+  .csv         571
+  .py          191
+  .svg         181
+  .pyc         156
+  .txt         70
+  [no extension] 40
+  .gz          15
+  .dll         8
+  .cpp         6
+  .pyd         4
+  .whl         4
+  .docx        3
+  .pdf         2
+  .md          2
+  .h           2
+  .0           2
+  .html        2
+  .exe         1
+
+IMPORTANT DIRECTORY MATCHES:
+  D:\Project_4\Full_US
+  D:\Project_4\Full_US\Round2
+  D:\Project_4\Full_US\state_wise_results
+  D:\Project_4\Full_US\state_wise_results\AL_Alabama
+
+OUTPUT FILES:
+  D:\Project_4\_inventory\project4_all_files.csv
+  D:\Project_4\_inventory\project4_folder_tree.txt
+  D:\Project_4\_inventory\project4_path_matches.txt
+
+Please send me project4_path_matches.txt and project4_folder_tree.txt.
